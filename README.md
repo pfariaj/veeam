@@ -56,4 +56,4 @@ Before running the tests, ensure you have the following installed:
 To run the Selenium test suite, execute the following command:
 
 ```bash
-python veeam_job_search_test.py
+ python tests\job_search.py
